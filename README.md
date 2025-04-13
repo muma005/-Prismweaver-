@@ -55,7 +55,7 @@ Prismweaver is built using modern web technologies and tools:
 
 ---
 
-## 🌈 Why Prismweaver?
+##  Why Prismweaver?
 As my **first full-stack project**, Prismweaver represents my journey into the exciting world of software development. I’ve poured my creativity, passion, and effort into making this tool intuitive, user-friendly, and powerful.
 
 I believe in the power of accessible tools, and Prismweaver is my way of contributing to the community. It’s not just a project; it’s the beginning of my adventure in tech. 🚀
